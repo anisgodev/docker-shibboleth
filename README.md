@@ -15,3 +15,5 @@ The following Sygefor repositories must be writable by the user www-data :
  - app/logs
  - var/Material
  - var/Publipost 
+ - var/sessions
+ 
